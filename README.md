@@ -58,7 +58,7 @@ As avaliações somarão um total de 100 pontos. Um aluno é considerado **aprov
 
 ##### Pontuação máxima de cada atividade
 | Prova 1  | Prova 2  | Atividades práticas | 
-| :------------: | :------------: | :------------: | :------------: |
+| :------------: | :------------: | :------------: |
 | 25 pontos  | 25 pontos  | 50 pontos  |
 
 ---
