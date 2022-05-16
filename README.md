@@ -6,9 +6,9 @@
 
 #### Horário
 
-  - Aula teórica: Terças-feiras, 08h às 10h 
-  - Aula teórica: Quartas-feiras, 08h às 10h
-  - Aula prática: Quintas-feiras, 08h às 10h
+  - Aula teórica: Terças-feiras, 08h às 10h (Sala UE-B-302)
+  - Aula teórica: Quartas-feiras, 08h às 10h (Sala UE-B-302)
+  - Aula prática: Quintas-feiras, 08h às 10h (Sala UE-B-207)
  
 #### Histórico e planejamento das aulas
 
