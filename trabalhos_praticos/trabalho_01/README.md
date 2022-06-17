@@ -51,4 +51,4 @@ Somente será necessário o envio de um trabalho por dupla ou trio. O relatório
  - Conclusões, apontando as principais dificuldades encontradas e qualquer outro detalhe interessante que acharem pertinente
 
 #### Data da entrega
-A combinar
+29 de Junho de 2022
