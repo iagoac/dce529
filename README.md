@@ -27,18 +27,17 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
   - **21/06** - Aula 09: Dúvidas do trabalho prático 01
   - **22/06** - Aula 10: Caminhos mínimos - Algoritmo de Dijkstra
   - **28/06** - Aula 11: Caminhos mínimos - Algoritmo de Bellman-Ford
-  - **29/06** - Aula 12: Dúvidas para prova 01
-  - **05/07** - Aula 13: Prova 01
-  - **06/07** - Aula 14: Correção da prova e comentários gerais (Assíncrona)
-  - **06/07** - Aula 15: Dúvidas do trabalho prático 02
-  - **12/07** - Aula 16: Ciclos eulerianos e hamiltonianos
+  - **29/06** - Aula 12: Ciclos eulerianos e hamiltonianos
+  - **05/07** - Aula 13: Dúvidas para prova 01
+  - **06/07** - Aula 14: Prova 01
+  - **12/07** - Aula 16: Correção da prova e comentários gerais
   - **13/07** - Aula 17: Classes de complexidade
   - **19/07** - Aula 18: Heurísticas construtivas e conceito de vizinhanças
   - **20/07** - Aula 19: Algoritmos de busca local
   - **26/07** - Aula 20: Algoritmos evolutivos
   - **27/07** - Aula 21: Algoritmos aproximativos
   - **02/08** - Aula 22: Dúvidas para prova 02
-  - **03/08** - Aula 23: Prova 02 (Presencial)
+  - **03/08** - Aula 23: Prova 02
   - **09/08** - Aula 24: Correção da prova e comentários gerais (Assíncrona)
   - **10/08** - Aula 25: Dúvidas para trabalho prático 03
   - **17/08** - Aula 26: Prova especial
