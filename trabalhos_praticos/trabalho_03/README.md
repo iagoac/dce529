@@ -4,7 +4,7 @@
 ## Maior subgrafo induzido de 5 vértices
 
 #### Descrição
-Neste terceiro (e último!) trabalho prático vocês deverão utilizar os conhecimentos adquiridos em sala de aula para a resolução heurística de um problema NP-Completo. Neste problema, o objetivo é encontrar o maior (ou mais custoso, ou mais pesado) subgrafo induzido de 5 vértices em um grafo completo.
+Neste terceiro (e último!) trabalho prático vocês deverão utilizar os conhecimentos adquiridos em sala de aula para a resolução heurística de um problema NP-Completo. Neste problema, o objetivo é encontrar o maior (ou mais custoso, ou mais pesado) subgrafo induzido de 5 vértices em um grafo completo. Mais além, espera-se que este subgrafo seja correspondente a uma árvore binária, ou seja, o grau máximo de um vértice é 3
 
 Para tanto, alguns passos são necessários:
 
