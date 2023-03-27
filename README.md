@@ -1,4 +1,7 @@
+
 # Disciplina DCE529 - Algoritmos e Estruturas de Dados III (AEDs III)
+
+  
 
 ## Prof. Iago A. Carvalho
 
@@ -6,89 +9,134 @@
 
 #### Horário
 
-  - Aula teórica: Terças-feiras, 08h às 10h (Sala UE-B-302)
-  - Aula teórica: Quartas-feiras, 08h às 10h (Sala UE-B-302)
-  - Aula prática: Quintas-feiras, 08h às 10h (Sala UE-B-207)
- 
+- Aula teórica: Segundas-feiras, 08h às 10h (Sala a definir)
+- Aula teórica: Segundas-feiras, 08h às 10h (Sala a definir)
+- Aula prática: Quartas-feiras, 08h às 10h (Sala B-207)
+
 #### Histórico e planejamento das aulas
 
-As aulas serão todas ministradas, em sua grande maioria, presencialmente. Aulas teóricas expositivas serão realizadas em sala de aula, enquanto aulas práticas serão realizadas nos laboratórios da universidade, podendo serem síncronas ou assíncronas. Todos os slides e vídeos utilizados serão disponibilizados assim que estiverem prontos.
+As aulas serão ministradas, em sua grande maioria, presencialmente. Aulas teóricas expositivas serão realizadas em sala de aula, enquanto aulas práticas serão realizadas nos laboratórios da universidade, podendo serem síncronas ou assíncronas. Todos os slides e vídeos utilizados serão disponibilizados assim que estiverem prontos.  
 
-Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolvidas nas aulas práticas serão disponibilizadas no decorrer do semestre.
+Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada aula e o conteúdo esperado
 
-  - **24/05** - Aula 01: Introdução a disciplina DCE529
-  - **25/05** - Aula 02: Conceitos de grafos
-  - **31/05** - Aula 03: Estruturas de dados para representação de grafos
-  - **01/06** - Aula 04: Algoritmos de busca em grafos - Busca em profundidade
-  - **07/06** - Aula 05: Algoritmos de busca em grafos - Busca em largura
-  - **08/06** - Aula 06: Árvore geradora mínima - Algoritmo de Prim
-  - **14/06** - Aula 07: Árvore geradora mínima - Algoritmo de Kruskal
-  - **15/06** - Aula 08: Conexidade em grafos
-  - **21/06** - Aula 09: Dúvidas do trabalho prático 01
-  - **22/06** - Aula 10: Caminhos mínimos - Algoritmo de Dijkstra
-  - **28/06** - Aula 11: Caminhos mínimos - Algoritmo de Bellman-Ford
-  - **29/06** - Aula 12: Ciclos eulerianos e hamiltonianos
-  - **05/07** - Aula 13: Dúvidas para prova 01
-  - **06/07** - Aula 14: Prova 01
-  - **12/07** - Aula 16: Correção da prova e comentários gerais
-  - **13/07** - Aula 17: Classes de complexidade
-  - **19/07** - Aula 18: Heurísticas construtivas e conceito de vizinhanças
-  - **20/07** - Aula 19: Algoritmos de busca local
-  - **26/07** - Aula 20: Algoritmos evolutivos
-  - **27/07** - Aula 21: Algoritmos aproximativos
-  - **02/08** - Aula 22: Dúvidas para prova 02
-  - **03/08** - Aula 23: Prova 02
-  - **09/08** - Aula 24: Correção da prova e comentários gerais (Assíncrona)
-  - **10/08** - Aula 25: Dúvidas para trabalho prático 03
-  - **17/08** - Aula 26: Prova especial
+-  **27/03** - Aula 01: Introdução a disciplina DCE529
+-  **28/03** - Aula 02: Complexidade de algoritmos e classes de complexidade
+-  **29/03** - Aula 03: Provas de NP-Completude e disponibilização do TP1
+-  **03/04** - Aula 04: Funções de recorrência e teorema mestre
+-  **04/04** - Aula 05: Dúvidas para Prova 01
+-  **10/04** - Aula 06: Apresentação do TP1
+-  **11/04** - Aula 07: Prova 01
+-  **12/04** - Aula 08: Correção da prova e comentários gerais; Disponibilização do TP2
+-  **17/04** - Aula 09: Paradigmas de projetos de algoritmos - Algoritmos gulosos e divisão e conquista
+-  **18/04** - Aula 10: Paradigmas de projetos de algoritmos - Programação dinâmica
+-  **24/04** - Aula 12: Conceitos de grafos e estruturas de dados para representação de grafos
+-  **25/04** - Aula 13: Algoritmos de busca em grafos - largura e profundidade
+-  **02/05** - Aula 15: Dúvidas para Prova 02
+-  **08/05** - Aula 17: Apresentação do TP2
+-  **09/05** - Aula 18: Prova 02
+-  **10/05** - Aula 19: Correção da prova e comentários gerais; Disponibilização do TP3
+-  **15/05** - Aula 20: Algoritmo de Dijkstra e Bellman-ford
+-  **16/05** - Aula 21: Algoritmo de Prim e Algoritmo de Kruskal
+-  **22/05** - Aula 23: Fluxo em redes
+-  **23/05** - Aula 24: Ciclos eulerianos e hamiltonianos
+-  **29/05** - Aula 26: Problemas de isomorfismo e emparelhamento em grafos; Componentes conexos
+-  **30/05** - Aula 27: Dúvidas para prova 03
+-  **05/06** - Aula 29: Apresentação do TP3
+-  **06/06** - Aula 30: Prova 03
+-  **07/06** - Aula 31: Correção da prova e comentários gerais; Disponibilização do TP4
+-  **12/06** - Aula 32: Introdução a heurísticas; Conceitos de heurísticas e meta-heurísticas
+-  **13/06** - Aula 33: Heurísticas construtivas e conceito de vizinhanças
+-  **19/06** - Aula 35: Heurísticas de busca local
+-  **20/06** - Aula 36: Heurísticas evolutivas
+-  **26/06** - Aula 38: Dúvidas sobre a disciplina e TP4
+-  **27/06** - Aula 39: Dúvidas sobre a disciplina e TP4
+-  **03/07** - Aula 41: Apresentação do TP4
+-  **04/07** - Aula 42: Prova 04
+-  **05/07** - Aula 43: Correção da prova e comentários gerais
+-  **10/07** - Aula 44: Dúvidas para a recuperação de aprendizagem
+-  **11/07** - Aula 45: Recuperação de aprendizagem e fim do semestre
 
-As datas e conteúdos descritos acima estão sujeito a eventuais mudanças, principalmente devido ao calendário apertado deste semestre. 
+Abaixo segue o planejamento das aulas práticas. As atividades a serem desenvolvidas nas aulas práticas serão disponibilizadas no decorrer do semestre.
+
+-  **19/04** - Aula 11: Implementação do TP2
+-  **26/04** - Aula 14: Implementação de algoritmos de busca em grafos
+-  **03/05** - Aula 16: Implementação de Dijkstra e Bellman-Ford
+-  **17/05** - Aula 22: Implementação de Prim e Kruskal
+-  **24/05** - Aula 25: Implementação de algoritmo de fluxo em redes
+-  **31/05** - Aula 28: Implementação do TP3
+-  **14/06** - Aula 34: Implementação de heurísticas construtivas
+-  **21/06** - Aula 37: Implementação de uma meta-heurística
+-  **28/06** - Aula 40: Implementação do TP4
+
+As datas e conteúdos descritos acima estão sujeito a eventuais mudanças. Toda e qualquer mudança será refletida aqui e comunicada por e-mail o mais rapidamente o possível.
 
 ---
 
 ## Avaliações
 
-A avaliação de aprendizagem será realizada através de três provas e um conjunto de atividades práticas.
-
+A avaliação de aprendizagem será realizada através de quatro provas (P1, P2, P3 e P4) e quatro trabalhos práticos (TP1, TP2, TP3 e TP4). Todas as atividades terão exatamente o mesmo peso na composição da nota final.
+  
 As avaliações somarão um total de 100 pontos. Um aluno é considerado **aprovado** caso obtenha **60 pontos ou mais** ao fim do curso.
 
-**Prova especial**: Alunos que perderam uma das duas provas poderão optar por realizar uma prova especial no último dia de aula, conforme [Resolução CEPE nº 15/2016](https://www.unifal-mg.edu.br/portal/wp-content/uploads/sites/52/2019/07/15-2016-aprova-Reg.-Geral-Cursos-de-gradua%C3%A7%C3%A3o-11935-8-alterada-pela-016-2019-vide-res-020-2019.pdf "Resolução CEPE nº 15/2016"). A nota obtida nesta prova substituirá a nota da prova perdida no cômputo da nota final.
-
+**Prova especial**: Alunos que perderam uma das duas provas poderão optar por realizar uma prova especial no último dia de aula, conforme [Resolução CEPE nº 15/2016](https://www.unifal-mg.edu.br/portal/wp-content/uploads/sites/52/2019/07/15-2016-aprova-Reg.-Geral-Cursos-de-gradua%C3%A7%C3%A3o-11935-8-alterada-pela-016-2019-vide-res-020-2019.pdf  "Resolução CEPE nº 15/2016"). A nota obtida nesta prova substituirá a nota da prova perdida no cômputo da nota final.
 
 ##### Pontuação máxima de cada atividade
-| Prova 1  | Prova 2  | Atividades práticas | 
-| :------------: | :------------: | :------------: |
-| 25 pontos  | 25 pontos  | 50 pontos  |
+
+| P1 | P2 | P3 | P4 | TP1 | TP2 | TP3 | TP4 |
+| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
+| 12,5 pontos | 12,5 pontos | 12,5 pontos | 12,5 pontos | 12,5 pontos | 12,5 pontos | 12,5 pontos | 12,5 pontos|
 
 ---
 
 ## Frequência e assiduidade do aluno
 
+  
+
 A frequência do aluno será aferida pela sua frequência nas aulas teóricas e práticas.
 
-Cada aluno deverá obter uma frequência mínima em 75% das aulas realizadas para ser considerado aprovado. 
+Cada aluno deverá obter uma frequência mínima em **75%** das aulas realizadas para ser considerado aprovado.
 
 ---
 
+
 ## Outras informações
+
+  
 
 Este repositório no GitHub também servirá como fórum de dúvidas da disciplina. As dúvidas deverão ser postadas na [aba Discussões nesta página](https://github.com/iagoac/dce529/discussions). Desta forma, todos os envolvidos na disciplina (o professor e os outros alunos) poderão ver suas dúvidas e respondelas o mais rápido possível.
 
+  
+
 ### Informações para citação
+
+  
 
 Se você utilizar o material desta disciplina de qualquer maneira, por favor, cite o material fonte:
 
-Iago A. Carvalho (2022), DCE529. Online: https://github.com/iagoac/dce529 Version 1.00; GNU General Public License v3.0.
+  
 
+Iago A. Carvalho (2023), DCE529. Online: https://github.com/iagoac/dce529 Version 2.00; GNU General Public License v3.0.
 
-> @Misc{CarvalhoDCE529,  
-title={DCE529 - Algoritmo e Estruturas de Dados III},  
-author={Iago A. Carvalho},   
-howPublished={\url{https&#58;//github\.com/iagoac/dce529}},  
-year={2022},  
-note={Version 1.00; GNU General Public License v3.0}  
+  
+  
+
+> @Misc{CarvalhoDCE529,
+
+title={DCE529 - Algoritmo e Estruturas de Dados III},
+
+author={Iago A. Carvalho},
+
+howPublished={\url{https&#58;//github\.com/iagoac/dce529}},
+
+year={2023},
+
+note={Version 2.00; GNU General Public License v3.0}
+
 }
 
+  
+  
 
-Iago A. Carvalho  
-[http://iagoac.github.io/](http://iagoac.github.io/ "http://iagoac.github.io/")
+Iago A. Carvalho
+
+[http://iagoac.github.io/](http://iagoac.github.io/  "http://iagoac.github.io/")
