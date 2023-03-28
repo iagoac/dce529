@@ -24,35 +24,35 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **29/03** - Aula 03: Provas de NP-Completude e disponibilização do TP1
 -  **03/04** - Aula 04: Funções de recorrência e teorema mestre
 -  **04/04** - Aula 05: Dúvidas para Prova 01
--  **10/04** - Aula 06: Apresentação do TP1
--  **11/04** - Aula 07: Prova 01
--  **12/04** - Aula 08: Correção da prova e comentários gerais; Disponibilização do TP2
+-  **10/04** - Aula 06: Prova 01
+-  **11/04** - Aula 07: Apresentação do TP1
+-  **12/04** - Aula 08: Apresentação do TP1; Correção da prova e comentários gerais; Disponibilização do TP2
 -  **17/04** - Aula 09: Paradigmas de projetos de algoritmos - Algoritmos gulosos e divisão e conquista
 -  **18/04** - Aula 10: Paradigmas de projetos de algoritmos - Programação dinâmica
 -  **24/04** - Aula 12: Conceitos de grafos e estruturas de dados para representação de grafos
 -  **25/04** - Aula 13: Algoritmos de busca em grafos - largura e profundidade
 -  **02/05** - Aula 15: Dúvidas para Prova 02
--  **08/05** - Aula 17: Apresentação do TP2
--  **09/05** - Aula 18: Prova 02
--  **10/05** - Aula 19: Correção da prova e comentários gerais; Disponibilização do TP3
+-  **08/05** - Aula 17: Prova 02
+-  **09/05** - Aula 18: Apresentação do TP2
+-  **10/05** - Aula 19: Apresentação do TP2; Correção da prova e comentários gerais; Disponibilização do TP3
 -  **15/05** - Aula 20: Algoritmo de Dijkstra e Bellman-ford
 -  **16/05** - Aula 21: Algoritmo de Prim e Algoritmo de Kruskal
 -  **22/05** - Aula 23: Fluxo em redes
 -  **23/05** - Aula 24: Ciclos eulerianos e hamiltonianos
 -  **29/05** - Aula 26: Problemas de isomorfismo e emparelhamento em grafos; Componentes conexos
 -  **30/05** - Aula 27: Dúvidas para prova 03
--  **05/06** - Aula 29: Apresentação do TP3
--  **06/06** - Aula 30: Prova 03
--  **07/06** - Aula 31: Correção da prova e comentários gerais; Disponibilização do TP4
+-  **05/06** - Aula 29: Prova 03
+-  **06/06** - Aula 30: Apresentação do TP3
+-  **07/06** - Aula 31: Apresentação do TP3; Correção da prova e comentários gerais; Disponibilização do TP4
 -  **12/06** - Aula 32: Introdução a heurísticas; Conceitos de heurísticas e meta-heurísticas
 -  **13/06** - Aula 33: Heurísticas construtivas e conceito de vizinhanças
 -  **19/06** - Aula 35: Heurísticas de busca local
 -  **20/06** - Aula 36: Heurísticas evolutivas
 -  **26/06** - Aula 38: Dúvidas sobre a disciplina e TP4
 -  **27/06** - Aula 39: Dúvidas sobre a disciplina e TP4
--  **03/07** - Aula 41: Apresentação do TP4
--  **04/07** - Aula 42: Prova 04
--  **05/07** - Aula 43: Correção da prova e comentários gerais
+-  **03/07** - Aula 41: Prova 04
+-  **04/07** - Aula 42: Apresentação do TP4
+-  **05/07** - Aula 43: Apresentação do TP4; Correção da prova e comentários gerais
 -  **10/07** - Aula 44: Dúvidas para a recuperação de aprendizagem
 -  **11/07** - Aula 45: Recuperação de aprendizagem e fim do semestre
 
