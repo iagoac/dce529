@@ -20,9 +20,9 @@ As aulas serão ministradas, em sua grande maioria, presencialmente. Aulas teór
 Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada aula e o conteúdo esperado
 
 -  **27/03** - Aula 01: Introdução a disciplina DCE529
--  **28/03** - Aula 02: Complexidade de algoritmos e classes de complexidade
--  **29/03** - Aula 03: Provas de NP-Completude e disponibilização do TP1
--  **03/04** - Aula 04: Funções de recorrência e teorema mestre
+-  **28/03** - [Aula 02: Complexidade de algoritmos e classes de complexidade](https://github.com/iagoac/dce529/blob/main/slides/aula_02.pdf)
+-  **29/03** - [Aula 03: NP-Completude; Disponibilização do TP1](https://github.com/iagoac/dce529/blob/main/slides/aula_03.pdf)
+-  **03/04** - [Aula 04: Funções de recorrência e teorema mestre](https://github.com/iagoac/dce529/blob/main/slides/aula_04.pdf)
 -  **04/04** - Aula 05: Dúvidas para Prova 01
 -  **10/04** - Aula 06: Prova 01
 -  **11/04** - Aula 07: Apresentação do TP1
@@ -121,22 +121,16 @@ Iago A. Carvalho (2023), DCE529. Online: https://github.com/iagoac/dce529 Versio
   
 
 > @Misc{CarvalhoDCE529,
-
-title={DCE529 - Algoritmo e Estruturas de Dados III},
-
-author={Iago A. Carvalho},
-
-howPublished={\url{https&#58;//github\.com/iagoac/dce529}},
-
-year={2023},
-
-note={Version 2.00; GNU General Public License v3.0}
-
-}
+> title={DCE529 - Algoritmo e Estruturas de Dados III},
+> author={Iago A. Carvalho},
+> howPublished={\url{https&#58;//github\.com/iagoac/dce529}},
+> year={2023},
+> note={Version 2.00; GNU General Public License v3.0}
+> }
 
   
   
 
 Iago A. Carvalho
 
-[http://iagoac.github.io/](http://iagoac.github.io/  "http://iagoac.github.io/")
+[http://iagoac.github.io/](http://iagoac.github.io/)
