@@ -21,12 +21,12 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 
 -  **27/03** - Aula 01: Introdução a disciplina DCE529
 -  **28/03** - [Aula 02: Complexidade de algoritmos e classes de complexidade](https://github.com/iagoac/dce529/blob/main/slides/aula_02.pdf)
--  **29/03** - [Aula 03: NP-Completude; Disponibilização do TP1](https://github.com/iagoac/dce529/blob/main/slides/aula_03.pdf)
+-  **29/03** - [Aula 03: NP-Completude](https://github.com/iagoac/dce529/blob/main/slides/aula_03.pdf); [Disponibilização do TP1](https://github.com/iagoac/dce529/tree/main/trabalhos/tp_01)
 -  **03/04** - [Aula 04: Funções de recorrência e teorema mestre](https://github.com/iagoac/dce529/blob/main/slides/aula_04.pdf)
 -  **04/04** - Aula 05: Dúvidas para Prova 01
 -  **10/04** - Aula 06: Prova 01
 -  **11/04** - Aula 07: Apresentação do TP1
--  **12/04** - Aula 08: Apresentação do TP1; Correção da prova e comentários gerais; Disponibilização do TP2
+-  **12/04** - Aula 08: Apresentação do TP1; Correção da prova e comentários gerais; [Disponibilização do TP2](https://github.com/iagoac/dce529/tree/main/trabalhos/tp_02)
 -  **17/04** - Aula 09: Paradigmas de projetos de algoritmos - Algoritmos gulosos e divisão e conquista
 -  **18/04** - Aula 10: Paradigmas de projetos de algoritmos - Programação dinâmica
 -  **24/04** - Aula 12: Conceitos de grafos e estruturas de dados para representação de grafos
