@@ -10,7 +10,7 @@
 #### Horário
 
 - Aula teórica: Segundas-feiras, 08h às 10h (Sala B-202)
-- Aula teórica: Segundas-feiras, 08h às 10h (Sala B-202)
+- Aula teórica: Terças-feiras, 08h às 10h (Sala B-202)
 - Aula prática: Quartas-feiras, 08h às 10h (Sala B-207)
 
 #### Histórico e planejamento das aulas
@@ -121,11 +121,17 @@ Iago A. Carvalho (2023), DCE529. Online: https://github.com/iagoac/dce529 Versio
   
 
 > @Misc{CarvalhoDCE529,
+ 
 > title={DCE529 - Algoritmo e Estruturas de Dados III},
+ 
 > author={Iago A. Carvalho},
+ 
 > howPublished={\url{https&#58;//github\.com/iagoac/dce529}},
+ 
 > year={2023},
+
 > note={Version 2.00; GNU General Public License v3.0}
+
 > }
 
   
