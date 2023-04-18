@@ -28,7 +28,7 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **11/04** - Aula 07: Apresentação do TP1
 -  **12/04** - Aula 08: Apresentação do TP1; Correção da prova e comentários gerais; [Disponibilização do TP2](https://github.com/iagoac/dce529/tree/main/trabalhos/tp_02)
 -  **17/04** - [Aula 09: Paradigmas de projetos de algoritmos - Algoritmos recursivos, força bruta e gulosos](https://github.com/iagoac/dce529/blob/main/slides/aula_09.pdf)
--  **18/04** - Aula 10: Paradigmas de projetos de algoritmos - divisão e conquista e programação dinâmica
+-  **18/04** - [Aula 10: Paradigmas de projetos de algoritmos - divisão e conquista e programação dinâmica](https://github.com/iagoac/dce529/blob/main/slides/aula_10.pdf)
 -  **24/04** - Aula 12: Conceitos de grafos e estruturas de dados para representação de grafos
 -  **25/04** - Aula 13: Algoritmos de busca em grafos - largura e profundidade
 -  **02/05** - Aula 15: Dúvidas para Prova 02
@@ -121,21 +121,19 @@ Iago A. Carvalho (2023), DCE529. Online: https://github.com/iagoac/dce529 Versio
   
 
 > @Misc{CarvalhoDCE529,
- 
+>
 > title={DCE529 - Algoritmo e Estruturas de Dados III},
- 
+>
 > author={Iago A. Carvalho},
- 
+>
 > howPublished={\url{https&#58;//github\.com/iagoac/dce529}},
- 
+>
 > year={2023},
-
+> 
 > note={Version 2.00; GNU General Public License v3.0}
-
+>
 > }
 
-  
-  
 
 Iago A. Carvalho
 
