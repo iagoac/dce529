@@ -30,7 +30,7 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **17/04** - [Aula 09: Paradigmas de projetos de algoritmos - Algoritmos recursivos, força bruta e gulosos](https://github.com/iagoac/dce529/blob/main/slides/aula_09.pdf)
 -  **18/04** - [Aula 10: Paradigmas de projetos de algoritmos - divisão e conquista e programação dinâmica](https://github.com/iagoac/dce529/blob/main/slides/aula_10.pdf)
 -  **24/04** - [Aula 12: Conceitos de grafos e estruturas de dados para representação de grafos](https://github.com/iagoac/dce529/blob/main/slides/aula_12.pdf)
--  **25/04** - Aula 13: Algoritmos de busca em grafos - largura e profundidade
+-  **25/04** - [Aula 13: Algoritmos de busca em grafos - profundidade e largura](https://github.com/iagoac/dce529/blob/main/slides/aula_13.pdf)
 -  **02/05** - Aula 15: Dúvidas para Prova 02
 -  **08/05** - Aula 17: Prova 02
 -  **09/05** - Aula 18: Apresentação do TP2
