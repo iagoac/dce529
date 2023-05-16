@@ -36,7 +36,7 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **09/05** - Aula 18: Apresentação do TP2
 -  **10/05** - Aula 19: Apresentação do TP2; Correção da prova e comentários gerais; [Disponibilização do TP3](https://github.com/iagoac/dce529/blob/main/trabalhos/tp_03/descricao.pdf)
 -  **15/05** - [Aula 20: Caminho Mínimo - Algoritmos de Dijkstra e Bellman-ford](https://github.com/iagoac/dce529/blob/main/slides/aula_20.pdf)
--  **16/05** - Aula 21: Árvore Geradora Mínima - Algoritmos de Prim e Algoritmo de Kruskal
+-  **16/05** - [Aula 21: Árvore Geradora Mínima - Algoritmos de Prim e Algoritmo de Kruskal](https://github.com/iagoac/dce529/blob/main/slides/aula_21.pdf)
 -  **22/05** - Aula 23: Fluxo em redes
 -  **23/05** - Aula 24: Ciclos eulerianos e hamiltonianos
 -  **29/05** - Aula 26: Problemas de isomorfismo e emparelhamento em grafos; Componentes conexos
