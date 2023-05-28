@@ -39,7 +39,7 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **16/05** - [Aula 21: Árvore Geradora Mínima - Algoritmos de Prim e Algoritmo de Kruskal](https://github.com/iagoac/dce529/blob/main/slides/aula_21.pdf)
 -  **22/05** - [Aula 23: Ciclos eulerianos e hamiltonianos](https://github.com/iagoac/dce529/blob/main/slides/aula_23.pdf)
 -  **23/05** - [Aula 24: Fluxo em redes](https://github.com/iagoac/dce529/blob/main/slides/aula_24.pdf)
--  **29/05** - Aula 26: Problemas de isomorfismo e emparelhamento em grafos; Componentes conexos
+-  **29/05** - [Aula 26: Problemas de isomorfismo e emparelhamento em grafos; Componentes conexos](https://github.com/iagoac/dce529/blob/main/slides/aula_26.pdf)
 -  **30/05** - Aula 27: Dúvidas para prova 03
 -  **05/06** - Aula 29: Prova 03
 -  **06/06** - Aula 30: Apresentação do TP3
