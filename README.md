@@ -44,10 +44,10 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **05/06** - Aula 29: Prova 03
 -  **06/06** - Aula 30: Apresentação do TP3
 -  **07/06** - Aula 31: Apresentação do TP3; Correção da prova e comentários gerais; Disponibilização do TP4
--  **12/06** - Aula 32: Introdução a heurísticas; Conceitos de heurísticas e meta-heurísticas
--  **13/06** - Aula 33: Heurísticas construtivas e conceito de vizinhanças
--  **19/06** - Aula 35: Heurísticas de busca local
--  **20/06** - Aula 36: Heurísticas evolutivas
+-  **12/06** - [Aula 32: Introdução a heurísticas; Heurísticas construtivas](https://github.com/iagoac/dce529/blob/main/slides/aula_32.pdf)
+-  **13/06** - Aula 33: Conceito de vizinhanças e busca local
+-  **19/06** - Aula 35: Heurísticas evolutivas
+-  **20/06** - Aula 36: Algoritmos aproximativos
 -  **26/06** - Aula 38: Dúvidas sobre a disciplina e TP4
 -  **27/06** - Aula 39: Dúvidas sobre a disciplina e TP4
 -  **03/07** - Aula 41: Prova 04
