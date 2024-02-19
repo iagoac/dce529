@@ -20,34 +20,34 @@ As aulas serão ministradas, em sua grande maioria, presencialmente. Aulas teór
 Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada aula e o conteúdo esperado
 
 -  **27/03** - Aula 01: Introdução a disciplina DCE529
--  **28/03** - [Aula 02: Complexidade de algoritmos e classes de complexidade](https://github.com/iagoac/dce529/blob/main/slides/aula_02.pdf)
--  **29/03** - [Aula 03: NP-Completude](https://github.com/iagoac/dce529/blob/main/slides/aula_03.pdf); [Disponibilização do TP1](https://github.com/iagoac/dce529/tree/main/trabalhos/tp_01)
--  **03/04** - [Aula 04: Funções de recorrência e teorema mestre](https://github.com/iagoac/dce529/blob/main/slides/aula_04.pdf)
+-  **28/03** - [Aula 02: Complexidade de algoritmos e classes de complexidade](slides/aula_02.pdf)
+-  **29/03** - [Aula 03: NP-Completude](slides/aula_03.pdf); [Disponibilização do TP1](trabalhos/tp_01)
+-  **03/04** - [Aula 04: Funções de recorrência e teorema mestre](slides/aula_04.pdf)
 -  **04/04** - Aula 05: Dúvidas para Prova 01
 -  **10/04** - Aula 06: Prova 01
 -  **11/04** - Aula 07: Apresentação do TP1
--  **12/04** - Aula 08: Apresentação do TP1; Correção da prova e comentários gerais; [Disponibilização do TP2](https://github.com/iagoac/dce529/tree/main/trabalhos/tp_02)
--  **17/04** - [Aula 09: Paradigmas de projetos de algoritmos - Algoritmos recursivos, força bruta e gulosos](https://github.com/iagoac/dce529/blob/main/slides/aula_09.pdf)
--  **18/04** - [Aula 10: Paradigmas de projetos de algoritmos - divisão e conquista e programação dinâmica](https://github.com/iagoac/dce529/blob/main/slides/aula_10.pdf)
--  **24/04** - [Aula 12: Conceitos de grafos e estruturas de dados para representação de grafos](https://github.com/iagoac/dce529/blob/main/slides/aula_12.pdf)
--  **25/04** - [Aula 13: Algoritmos de busca em grafos - profundidade e largura](https://github.com/iagoac/dce529/blob/main/slides/aula_13.pdf)
+-  **12/04** - Aula 08: Apresentação do TP1; Correção da prova e comentários gerais; [Disponibilização do TP2](trabalhos/tp_02)
+-  **17/04** - [Aula 09: Paradigmas de projetos de algoritmos - Algoritmos recursivos, força bruta e gulosos](slides/aula_09.pdf)
+-  **18/04** - [Aula 10: Paradigmas de projetos de algoritmos - divisão e conquista e programação dinâmica](slides/aula_10.pdf)
+-  **24/04** - [Aula 12: Conceitos de grafos e estruturas de dados para representação de grafos](slides/aula_12.pdf)
+-  **25/04** - [Aula 13: Algoritmos de busca em grafos - profundidade e largura](slides/aula_13.pdf)
 -  **02/05** - Aula 15: Dúvidas para Prova 02
 -  **08/05** - Aula 17: Prova 02
 -  **09/05** - Aula 18: Apresentação do TP2
--  **10/05** - Aula 19: Apresentação do TP2; Correção da prova e comentários gerais; [Disponibilização do TP3](https://github.com/iagoac/dce529/blob/main/trabalhos/tp_03/descricao.pdf)
--  **15/05** - [Aula 20: Caminho Mínimo - Algoritmos de Dijkstra e Bellman-ford](https://github.com/iagoac/dce529/blob/main/slides/aula_20.pdf)
--  **16/05** - [Aula 21: Árvore Geradora Mínima - Algoritmos de Prim e Algoritmo de Kruskal](https://github.com/iagoac/dce529/blob/main/slides/aula_21.pdf)
--  **22/05** - [Aula 23: Ciclos eulerianos e hamiltonianos](https://github.com/iagoac/dce529/blob/main/slides/aula_23.pdf)
--  **23/05** - [Aula 24: Fluxo em redes](https://github.com/iagoac/dce529/blob/main/slides/aula_24.pdf)
--  **29/05** - [Aula 26: Problemas de isomorfismo e emparelhamento em grafos; Componentes conexos](https://github.com/iagoac/dce529/blob/main/slides/aula_26.pdf)
+-  **10/05** - Aula 19: Apresentação do TP2; Correção da prova e comentários gerais; [Disponibilização do TP3](trabalhos/tp_03/descricao.pdf)
+-  **15/05** - [Aula 20: Caminho Mínimo - Algoritmos de Dijkstra e Bellman-ford](slides/aula_20.pdf)
+-  **16/05** - [Aula 21: Árvore Geradora Mínima - Algoritmos de Prim e Algoritmo de Kruskal](slides/aula_21.pdf)
+-  **22/05** - [Aula 23: Ciclos eulerianos e hamiltonianos](slides/aula_23.pdf)
+-  **23/05** - [Aula 24: Fluxo em redes](slides/aula_24.pdf)
+-  **29/05** - [Aula 26: Problemas de isomorfismo e emparelhamento em grafos; Componentes conexos](slides/aula_26.pdf)
 -  **30/05** - Aula 27: Dúvidas para prova 03
 -  **05/06** - Aula 29: Prova 03
 -  **06/06** - Aula 30: Apresentação do TP3
 -  **07/06** - Aula 31: Apresentação do TP3; Correção da prova e comentários gerais; Disponibilização do TP4
--  **12/06** - [Aula 32: Introdução a heurísticas; Heurísticas construtivas](https://github.com/iagoac/dce529/blob/main/slides/aula_32.pdf)
--  **13/06** - [Aula 33: Conceito de vizinhanças e busca local](https://github.com/iagoac/dce529/blob/main/slides/aula_33.pdf)
--  **19/06** - [Aula 35: Heurísticas evolutivas](https://github.com/iagoac/dce529/blob/main/slides/aula_35.pdf)
--  **20/06** - [Aula 36: Algoritmos aproximativos](https://github.com/iagoac/dce529/blob/main/slides/aula_3.pdf)
+-  **12/06** - [Aula 32: Introdução a heurísticas; Heurísticas construtivas](slides/aula_32.pdf)
+-  **13/06** - [Aula 33: Conceito de vizinhanças e busca local](slides/aula_33.pdf)
+-  **19/06** - [Aula 35: Heurísticas evolutivas](slides/aula_35.pdf)
+-  **20/06** - [Aula 36: Algoritmos aproximativos](slides/aula_3.pdf)
 -  **26/06** - Aula 38: Dúvidas sobre a disciplina e TP4
 -  **27/06** - Aula 39: Dúvidas sobre a disciplina e TP4
 -  **03/07** - Aula 41: Dúvidas para Prova 04
