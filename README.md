@@ -32,8 +32,8 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **01/04** - Aula 16: Prova 02
 -  **02/04** - Aula 17: Apresentação do TP2
 -  **03/04** - Aula 18: Apresentação do TP2 - Correção da prova e comentários gerais - Disponibilização do TP3
--  **08/04** - Aula 19: Caminho Mínimo - Algoritmos de Dijkstra e Bellman-ford
--  **09/04** - Aula 20: Árvore Geradora Mínima - Algoritmos de Prim e Algoritmo de Kruskal
+-  **08/04** - [Aula 19: Caminho Mínimo - Algoritmos de Dijkstra e Bellman-ford](slides/aula_19.pdf)
+-  **09/04** - [Aula 20: Árvore Geradora Mínima - Algoritmos de Prim e Algoritmo de Kruskal](slides/aula_20.pdf)
 -  **15/04** - Aula 22: Ciclos eulerianos e hamiltonianos; Caixeiro viajante
 -  **16/04** - Aula 23: Fluxo em redes - Algoritmo de Ford-Fulkerson
 -  **22/04** - Aula 25: Problemas de isomorfismo e emparelhamento em grafos; Componentes conexos; Coloração
