@@ -36,7 +36,7 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **09/04** - [Aula 20: Árvore Geradora Mínima - Algoritmos de Prim e Algoritmo de Kruskal](slides/aula_20.pdf)
 -  **15/04** - [Aula 22: Ciclos eulerianos e hamiltonianos; Caixeiro viajante](slides/aula_22.pdf)
 -  **16/04** - [Aula 23: Problemas de isomorfismo e emparelhamento em grafos; Componentes conexos; Coloração](slides/aula_23.pdf)
--  **22/04** - Aula 25: Fluxo em redes - Algoritmo de Ford-Fulkerson
+-  **22/04** - [Aula 25: Fluxo em redes](slides/aula_25.pdf)
 -  **23/04** - Aula 26: Dúvidas para prova 03
 -  **29/04** - Aula 29: Prova 03
 -  **30/04** - Aula 30: Apresentação do TP3
@@ -58,7 +58,7 @@ Abaixo segue o planejamento das aulas práticas. As atividades a serem desenvolv
 -  **27/03** - Aula 15: Implementação de algoritmos de busca em grafos
 -  **10/04** - Aula 21: Implementação de Dijkstra e Bellman-Ford
 -  **17/04** - Aula 24: Implementação de Prim e Kruskal
--  **24/04** - Aula 25: Implementação do Ford-Fulkerson
+-  **24/04** - Aula 27: Implementação do Ford-Fulkerson
 -  **08/05** - Aula 33: Programação linear e inteira
 -  **15/05** - Aula 36: Implementação de heurísticas construtivas
 -  **22/05** - Aula 39: Implementação de uma meta-heurística
