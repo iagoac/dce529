@@ -41,7 +41,7 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **29/04** - Aula 29: Prova 03
 -  **30/04** - Aula 30: Apresentação do TP3
 -  **06/05** - Aula 31: Apresentação do TP3; Correção da prova e comentários gerais - Disponibilização do TP4
--  **07/05** - Aula 32: Introdução a otimização - linear, inteira e em redes
+-  **07/05** - [Aula 32: Introdução a heurísticas e heurísticas construtivas](slides/aula_32.pdf)
 -  **13/05** - Aula 34: Heurísticas construtivas, vizinhança e busca local
 -  **14/05** - Aula 35: Heurísticas evolutivas
 -  **20/05** - Aula 37: Metaheurísticas e algoritmos aproximativos
