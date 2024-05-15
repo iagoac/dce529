@@ -44,10 +44,10 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **07/05** - [Aula 32: Introdução a heurísticas e heurísticas construtivas](slides/aula_32.pdf)
 -  **13/05** - [Aula 34: Heurísticas construtivas, vizinhança e busca local](slides/aula_34.pdf)
 -  **14/05** - [Aula 35: Heurísticas evolutivas](slides/aula_35.pdf)
--  **20/05** - Aula 37: Metaheurísticas e algoritmos aproximativos
--  **21/05** - Aula 38: Dúvidas sobre a disciplina e TP4
--  **27/05** - Aula 40: Dúvidas sobre a disciplina e TP4
--  **03/06** - Aula 42: Prova 04
+-  **15/05** - [Aula 36: Algoritmos aproximativos](slides/aula_36.pdf)
+-  **20/05** - Aula 37: Dúvidas sobre a disciplina e TP4
+-  **21/05** - Aula 38: Prova 04
+-  **04/06** - Aula 42: Apresentação do TP4
 -  **05/06** - Aula 43: Apresentação do TP4; Correção da prova e comentários gerais
 -  **10/06** - Aula 44: Avaliação de reposição (Prova especial)
 -  **17/06** - Aula 45: Recuperação de aprendizagem e fim do semestre
