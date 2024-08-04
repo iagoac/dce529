@@ -16,7 +16,7 @@ As aulas serão ministradas, em sua grande maioria, presencialmente. Aulas teór
 
 Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada aula e o conteúdo esperado
 
--  **05/08** - Aula 01: Introdução a disciplina DCE529
+-  **05/08** - [Aula 01: Introdução a disciplina DCE529](slides/aula_01.pdf)
 -  **06/08** - Aula 02: Complexidade de algoritmos e classes de complexidade
 -  **07/08** - Aula 03: NP-Completude - Disponibilização do TP1
 -  **12/08** - Aula 04: Funções de recorrência e teorema mestre
@@ -80,7 +80,7 @@ As avaliações somarão um total de 100 pontos. Um aluno é considerado **aprov
 
 | P1 | P2 | P3 | TP1 | TP2 | TP3 | TP4 |
 | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
-| 20 pontos | 20 pontos | 20 pontos | 10 pontos | 10 pontos | 10 pontos | 10 pontos|
+| 25 pontos | 25 pontos | 25 pontos | 6.25 pontos | 6.25 pontos | 6.25 pontos | 6.25 pontos|
 
 ---
 
