@@ -6,7 +6,7 @@
 
 #### Horário
 
-- Aula prática: Segundas-feiras, das 08h às 10h (Sala B-207)
+- Aula prática: Segundas-feiras, das 08h às 10h (Sala B-208)
 - Aula teórica: Terças-feiras, das 08h às 10h (Sala B-204)
 - Aula teórica: Quartas-feiras, das 08h às 10h (Sala B-207)
 
