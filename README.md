@@ -24,7 +24,7 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **14/08** - Aula 06: Prova 01
 -  **19/08** - Aula 07: Apresentação do TP1
 -  **20/08** - Aula 08: Apresentação do TP1 - Correção da prova e comentários gerais - Disponibilização do TP2
--  **21/08** - Aula 09: Paradigmas de projetos de algoritmos - Algoritmos recursivos, força bruta e gulosos
+-  **21/08** - [Aula 09: Paradigmas de projetos de algoritmos - Algoritmos recursivos, força bruta e gulosos](slides/aula_09.pdf)
 -  **27/08** - Aula 11: Paradigmas de projetos de algoritmos - divisão e conquista e programação dinâmica
 -  **28/08** - Aula 12: Conceitos de grafos e estruturas de dados para representação de grafos
 -  **03/09** - Aula 14: Algoritmos de busca em grafos - profundidade e largura
