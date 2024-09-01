@@ -28,8 +28,8 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **27/08** - [Aula 11: Paradigmas de projetos de algoritmos - divisão e conquista e programação dinâmica](slides/aula_11.pdf)
 -  **28/08** - [Aula 12: Conceitos de grafos e estruturas de dados para representação de grafos](slides/aula_12.pdf)
 -  **03/09** - Aula 14: Algoritmos de busca em grafos - profundidade e largura
--  **04/09** - Aula 15: Dúvidas para Prova 02
--  **09/09** - ~Aula 16: Apresentação do TP2~
+-  **04/09** - ~Aula 15: Dúvidas para Prova 02~
+-  **09/09** - Aula 16: Dúvidas para Prova 02
 -  **10/09** - Aula 17: Apresentação do TP2 - Disponibilização do TP3
 -  **11/09** - Aula 18: Prova 02
 -  **17/09** - Aula 20: Caminho Mínimo - Algoritmos de Dijkstra e Bellman-ford
