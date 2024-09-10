@@ -32,7 +32,7 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **09/09** - Aula 16: Dúvidas para Prova 02
 -  **10/09** - Aula 17: Apresentação do TP2 - Disponibilização do TP3
 -  **11/09** - Aula 18: Prova 02
--  **17/09** - Aula 20: Caminho Mínimo - Algoritmos de Dijkstra e Bellman-ford
+-  **17/09** - [Aula 20: Caminho Mínimo - Algoritmos de Dijkstra e Bellman-ford](slides/aula_20.pdf)
 -  **18/09** - Aula 21: Árvore Geradora Mínima - Algoritmos de Prim e Algoritmo de Kruskal
 -  **24/09** - Aula 23: Ciclos eulerianos e hamiltonianos; Caixeiro viajante
 -  **25/09** - Aula 24: Problemas de isomorfismo e emparelhamento em grafos; Componentes conexos; Coloração
