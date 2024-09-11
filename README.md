@@ -40,7 +40,7 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **02/10** - Aula 27: Algoritmo de fluxo (Ford-Fulkerson)
 -  **08/10** - Aula 28: Tempo livre para estudos
 -  **09/10** - Aula 29: Dúvidas para Prova 03
--  **21/10** - Aula 30: Apresentação do TP3
+-  **21/10** - ~Aula 30: Apresentação do TP3~
 -  **22/10** - Aula 31: Apresentação do TP3;  Disponibilização do TP4
 -  **23/10** - Aula 32: Prova 03
 -  **29/10** - Aula 33: Introdução a heurísticas e heurísticas construtivas
@@ -49,7 +49,7 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **13/11** - Aula 37: Algoritmos aproximativos
 -  **18/11** - Aula 38: Dúvidas sobre a disciplina e TP4
 -  **19/11** - Aula 39: Prova 04
--  **26/11** - Aula 41: Apresentação do TP4
+-  **26/11** - ~Aula 41: Apresentação do TP4~
 -  **27/11** - Aula 42: Apresentação do TP4; Correção da prova e comentários gerais
 -  **02/12** - Aula 43: Estudos para recuperação de aprendizagem
 -  **03/12** - Aula 44: Estudos para recuperação de aprendizagem
