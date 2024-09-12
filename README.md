@@ -30,7 +30,7 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **03/09** - [Aula 14: Algoritmos de busca em grafos - profundidade e largura](slides/aula_14.pdf)
 -  **04/09** - ~Aula 15: Dúvidas para Prova 02~
 -  **09/09** - Aula 16: Dúvidas para Prova 02
--  **10/09** - Aula 17: Apresentação do TP2 - Disponibilização do TP3
+-  **10/09** - Aula 17: Apresentação do TP2 - [Disponibilização do TP3](trabalhos_praticos/tp03/descricao.pdf)
 -  **11/09** - Aula 18: Prova 02
 -  **17/09** - [Aula 20: Caminho Mínimo - Algoritmos de Dijkstra e Bellman-ford](slides/aula_20.pdf)
 -  **18/09** - Aula 21: Árvore Geradora Mínima - Algoritmos de Prim e Algoritmo de Kruskal
