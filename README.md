@@ -36,7 +36,7 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **18/09** - [Aula 21: Árvore Geradora Mínima - Algoritmos de Prim e Algoritmo de Kruskal](slides/aula_21.pdf)
 -  **24/09** - [Aula 23: Ciclos eulerianos e hamiltonianos; Caixeiro viajante](slides/aula_23.pdf)
 -  **25/09** - [Aula 24: Problemas de isomorfismo e emparelhamento em grafos; Componentes conexos; Coloração](slides/aula_24.pdf)
--  **01/10** - Aula 26: Fluxo em redes (teoria)
+-  **01/10** - [Aula 26: Fluxo em redes (teoria)](slides/aula_26.pdf)
 -  **02/10** - Aula 27: Algoritmo de fluxo (Ford-Fulkerson)
 -  **08/10** - Aula 28: Tempo livre para estudos
 -  **09/10** - Aula 29: Dúvidas para Prova 03
