@@ -34,8 +34,8 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **11/09** - Aula 18: Prova 02
 -  **17/09** - [Aula 20: Caminho Mínimo - Algoritmos de Dijkstra e Bellman-ford](slides/aula_20.pdf)
 -  **18/09** - [Aula 21: Árvore Geradora Mínima - Algoritmos de Prim e Algoritmo de Kruskal](slides/aula_21.pdf)
--  **24/09** - Aula 23: Ciclos eulerianos e hamiltonianos; Caixeiro viajante
--  **25/09** - Aula 24: Problemas de isomorfismo e emparelhamento em grafos; Componentes conexos; Coloração
+-  **24/09** - [Aula 23: Ciclos eulerianos e hamiltonianos; Caixeiro viajante](slides/aula_23.pdf)
+-  **25/09** - [Aula 24: Problemas de isomorfismo e emparelhamento em grafos; Componentes conexos; Coloração](slides/aula_24.pdf)
 -  **01/10** - Aula 26: Fluxo em redes (teoria)
 -  **02/10** - Aula 27: Algoritmo de fluxo (Ford-Fulkerson)
 -  **08/10** - Aula 28: Tempo livre para estudos
