@@ -37,8 +37,8 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **24/09** - [Aula 23: Ciclos eulerianos e hamiltonianos; Caixeiro viajante](slides/aula_23.pdf)
 -  **25/09** - [Aula 24: Problemas de isomorfismo e emparelhamento em grafos; Componentes conexos; Coloração](slides/aula_24.pdf)
 -  **01/10** - [Aula 26: Fluxo em redes (teoria)](slides/aula_26.pdf)
--  **02/10** - Aula 27: Algoritmo de fluxo (Ford-Fulkerson)
--  **08/10** - Aula 28: Tempo livre para estudos
+-  **02/10** - Aula 27: Tempo livre para estudos (sem aula nesta data)
+-  **08/10** - Aula 28: Algoritmo de fluxo (Ford-Fulkerson)
 -  **09/10** - Aula 29: Dúvidas para Prova 03
 -  **21/10** - ~Aula 30: Apresentação do TP3~
 -  **22/10** - Aula 31: Apresentação do TP3;  Disponibilização do TP4
@@ -62,7 +62,7 @@ Abaixo segue o planejamento das aulas práticas. As atividades a serem desenvolv
 -  **16/09** - Aula 19: Implementação do TP3
 -  **23/09** - Aula 22: Implementação de algoritmos de caminho mínimo
 -  **30/09** - Aula 25: Implementação de algoritmos de árvore geradora mínima
--  **07/10** - Aula 28: Implementação de Ford-Fulkerson
+-  **07/10** - ~Aula 28: Implementação de Ford-Fulkerson~
 -  **11/11** - Aula 35: Implementação de heurísticas construtivas
 -  **25/11** - Aula 40: Implementação e dúvidas do TP4
 
