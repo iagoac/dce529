@@ -38,7 +38,7 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **25/09** - [Aula 24: Problemas de isomorfismo e emparelhamento em grafos; Componentes conexos; Coloração](slides/aula_24.pdf)
 -  **01/10** - [Aula 26: Fluxo em redes (teoria)](slides/aula_26.pdf)
 -  **02/10** - Aula 27: Tempo livre para estudos (sem aula nesta data)
--  **08/10** - Aula 28: Algoritmo de fluxo (Ford-Fulkerson)
+-  **08/10** - [Aula 28: Algoritmo de fluxo (Ford-Fulkerson)](slides/aula_28.pdf)
 -  **09/10** - Aula 29: Dúvidas para Prova 03
 -  **21/10** - ~Aula 30: Apresentação do TP3~
 -  **22/10** - Aula 31: Apresentação do TP3;  Disponibilização do TP4
