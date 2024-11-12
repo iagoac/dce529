@@ -45,8 +45,8 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **23/10** - Aula 32: Prova 03
 -  **29/10** - Aula 33: [Introdução a heurísticas e heurísticas construtivas](slides/aula_33.pdf)
 -  **30/10** - Aula 34: [Heurísticas construtivas, vizinhança e busca local](slides/aula_34.pdf)
--  **12/11** - Aula 36: Heurísticas evolutivas
--  **13/11** - Aula 37: Algoritmos aproximativos
+-  **12/11** - [Aula 36: Heurísticas evolutivas](slides/aula_36.pdf)
+-  **13/11** - [Aula 37: Algoritmos aproximativos](slides/aula_37.pdf)
 -  **18/11** - Aula 38: Dúvidas sobre a disciplina e TP4
 -  **19/11** - Aula 39: Prova 04
 -  **26/11** - ~Aula 41: Apresentação do TP4~
