@@ -47,9 +47,9 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **30/10** - Aula 34: [Heurísticas construtivas, vizinhança e busca local](slides/aula_34.pdf)
 -  **12/11** - [Aula 36: Heurísticas evolutivas](slides/aula_36.pdf)
 -  **13/11** - [Aula 37: Algoritmos aproximativos](slides/aula_37.pdf)
--  **18/11** - Aula 38: Dúvidas sobre a disciplina e TP4
--  **19/11** - Aula 39: Prova 04
--  **26/11** - ~Aula 41: Apresentação do TP4~
+-  **18/11** - ~Aula 38: Dúvidas sobre a disciplina e TP4~
+-  **19/11** - ~Aula 39: Prova 04~
+-  **26/11** - Aula 41: Prova 04
 -  **27/11** - Aula 42: Apresentação do TP4; Correção da prova e comentários gerais
 -  **02/12** - Aula 43: Estudos para recuperação de aprendizagem
 -  **03/12** - Aula 44: Estudos para recuperação de aprendizagem
@@ -63,8 +63,8 @@ Abaixo segue o planejamento das aulas práticas. As atividades a serem desenvolv
 -  **23/09** - Aula 22: Implementação de algoritmos de caminho mínimo
 -  **30/09** - Aula 25: Implementação de algoritmos de árvore geradora mínima
 -  **07/10** - ~Aula 28: Implementação de Ford-Fulkerson~
--  **11/11** - Aula 35: Implementação de heurísticas construtivas
--  **25/11** - Aula 40: Implementação e dúvidas do TP4
+-  **11/11** - ~Aula 35: Implementação de heurísticas construtivas~
+-  **25/11** - Aula 40: Dúvidas do TP04 e da prova 04
 
 As datas e conteúdos descritos acima estão sujeito a eventuais mudanças. Toda e qualquer mudança será refletida aqui e comunicada por e-mail o mais rapidamente o possível.
 
