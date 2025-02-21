@@ -274,3 +274,8 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
+# General MacOS files
+.DS_Store
+.AppleDouble
+.LSOverride
