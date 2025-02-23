@@ -17,8 +17,8 @@ As aulas serão ministradas, em sua grande maioria, presencialmente. Aulas teór
 Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada aula e o conteúdo esperado
 
 -  **24/02** - [Aula 01: Introdução a disciplina DCE529](slides/aula_01.pdf)
--  **25/02** - Aula 02: Complexidade de algoritmos e classes de complexidade
--  **26/02** - Aula 03: NP-Completude - Disponibilização do TP1
+-  **25/02** - [Aula 02: Complexidade de algoritmos e classes de complexidade](slides/aula_02.pdf)
+-  **26/02** - [Aula 03: NP-Completude](slides/aula_03.pdf) - Disponibilização do TP1
 -  **10/03** - Aula 04: Funções de recorrência e teorema mestre
 -  **11/03** - Aula 05: Dúvidas para Prova 01
 -  **12/03** - Aula 06: Prova 01
