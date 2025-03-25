@@ -28,9 +28,9 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **25/03** - [Aula 10: Paradigmas de projetos de algoritmos - divisão e conquista e programação dinâmica](slides/aula_10.pdf)
 -  **31/03** - Aula 12: Conceitos de grafos e estruturas de dados para representação de grafos
 -  **01/04** - Aula 13: Algoritmos de busca em grafos - profundidade e largura
--  **07/04** - Aula 15: Apresentação do TP2
--  **08/04** - Aula 16: Apresentação do TP2
--  **09/04** - Aula 17: Dúvidas para Prova 02 - Disponibilização do TP3
+-  **07/04** - Aula 15: Dúvidas para Prova 02
+-  **08/04** - ~Aula 16: Apresentação do TP2~
+-  **09/04** - Aula 17: Apresentação do TP2 - Disponibilização do TP3
 -  **14/04** - Aula 18: Prova 02
 -  **15/04** - Aula 19: Caminho Mínimo - Algoritmos de Dijkstra e Bellman-Ford
 -  **28/04** - Aula 21: Árvore Geradora Mínima - Algoritmos de Prim e Algoritmo de Kruskal
