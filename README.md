@@ -35,8 +35,8 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **15/04** - Aula 19: [Caminho Mínimo - Algoritmos de Dijkstra e Bellman-Ford](slides/aula_19.pdf)
 -  **28/04** - Aula 21: [Árvore Geradora Mínima - Algoritmos de Prim e Algoritmo de Kruskal](slides/aula_21.pdf)
 -  **29/04** - Aula 22: [Ciclos eulerianos e hamiltonianos; Caixeiro viajante](slides/aula_22.pdf)
--  **05/05** - Aula 24: Problemas de isomorfismo e emparelhamento em grafos; Componentes conexos; Coloração
--  **06/05** - Aula 25: Fluxo em redes (teoria)
+-  **05/05** - Aula 24: [Problemas de isomorfismo e emparelhamento em grafos; Componentes conexos; Coloração](slides/aula_24.pdf)
+-  **06/05** - Aula 25: [Fluxo em redes (teoria)](slides/aula_25.pdf)
 -  **12/05** - Aula 27: Tempo livre para estudos 
 -  **13/05** - Aula 28: Algoritmo de fluxo (Ford-Fulkerson)
 -  **19/05** - Aula 29: Apresentação do TP3
