@@ -43,7 +43,7 @@ Abaixo segue o planejamento das aulas teóricas, com as datas previstas de cada 
 -  **20/05** - Aula 30: Apresentação do TP3 - [Disponibilização do TP4](trabalhos/tp04/descricao.pdf)
 -  **27/05** - Aula 32: Prova 03
 -  **02/06** - Aula 34: [Introdução a heurísticas e heurísticas construtivas](slides/aula_34.pdf)
--  **03/06** - Aula 35: Heurísticas construtivas, vizinhança e busca local
+-  **03/06** - Aula 35: [Heurísticas construtivas, vizinhança e busca local](slides/aula_35.pdf)
 -  **09/06** - Aula 37: Heurísticas evolutivas
 -  **10/06** - Aula 38: Algoritmos aproximativos
 -  **16/06** - Aula 40: Tempo para estudos
